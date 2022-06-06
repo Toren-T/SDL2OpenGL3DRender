@@ -1,0 +1,8 @@
+*Mostlikely going to use.
+
+1. Create error log files.
+2. Figure out how I want to use shaders.
+	A: Generic shader creator and manager that allows programers to create there own shaders.
+       *B: Preset shader engine that you just need to input textures and can modify shader colours.
+3. Create a flexable control creator class.
+4. Allow for OpenGL to take in and use .obj files and UV/texture maps.

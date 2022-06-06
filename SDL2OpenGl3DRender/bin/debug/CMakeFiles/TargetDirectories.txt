@@ -1,0 +1,5 @@
+/home/t/Documents/Projects/SDL2OpenGl3DRender/bin/debug/CMakeFiles/rebuild_cache.dir
+/home/t/Documents/Projects/SDL2OpenGl3DRender/bin/debug/CMakeFiles/edit_cache.dir
+/home/t/Documents/Projects/SDL2OpenGl3DRender/bin/debug/src/CMakeFiles/rebuild_cache.dir
+/home/t/Documents/Projects/SDL2OpenGl3DRender/bin/debug/src/CMakeFiles/edit_cache.dir
+/home/t/Documents/Projects/SDL2OpenGl3DRender/bin/debug/src/CMakeFiles/SDL2OpenGl3DRender.dir
